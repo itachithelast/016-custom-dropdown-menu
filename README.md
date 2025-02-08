@@ -1,4 +1,4 @@
-# 016-custom-dropdown-menu
+# custom-dropdown-menu
 Fully customized selectable dropdown menu
 
 
